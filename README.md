@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Priyanshu Sharma
+- 👀 I’m interested inlearning technologies.
+- 🌱 I’m currently learning Data Science
+- 📫 How to reach me - www.linkedin.com/in/priyanshu-sharma-008b3864
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: What you like is always interesting 
